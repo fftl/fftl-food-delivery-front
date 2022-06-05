@@ -1,4 +1,4 @@
-# fftl-chatbot-naver-front
+# fftl-food-delivery-front
 
 ## Project setup
 ```
